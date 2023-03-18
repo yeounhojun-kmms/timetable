@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'NanumSquareNeo-Variable';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_11-01@1.0/NanumSquareNeo-Variable.woff2') format('woff2');
+    font-style: normal;
+}
+
+@import url('https://cdn.jsdelivr.net/gh/toss/tossface/dist/tossface.css');
+div {
+    font-family: 'NanumSquareNeo-Variable';
+}
+
+.tossface {
+    font-family: Tossface, NanumSquareNeo-Variable;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
